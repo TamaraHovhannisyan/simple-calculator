@@ -1,0 +1,61 @@
+.btn{
+   border: none;
+    width: 50px;
+    height:40px;
+    color: aliceblue;
+    background-color:rgb(97, 97, 97) ;
+    border: 2px black solid;
+}
+
+.calculator-screen{
+    width: 205px;
+    height: 50px;
+    background-color: rgb(78, 73, 67);
+    color: aliceblue;
+}
+
+#zero{
+    width: 105px;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#ac{
+    background-color: rgb(78, 73, 67);
+}
+
+#add_min{
+    background-color: rgb(78, 73, 67);
+}
+
+#percent{
+    background-color: rgb(78, 73, 67);
+}
+
+#div{
+    background-color: rgb(255, 154, 32);
+}
+
+#mul{
+    background-color: rgb(255, 154, 32);
+}
+
+#sub{
+    background-color: rgb(255, 154, 32);
+}
+
+#add{
+    background-color: rgb(255, 154, 32);
+}
+
+#add{
+    background-color: rgb(255, 154, 32);
+}
+
+#res{
+    background-color: rgb(255, 154, 32);
+}
